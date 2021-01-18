@@ -16,7 +16,7 @@ Browse through the basic survey.
 
 Simply click the link below.  
 
-https://fluent85.github.io/basic-survey-form/basicsurvey.html
+https://fluent85.github.io/basic-survey-form/basic-survey.html
 
 
 ## Future development
